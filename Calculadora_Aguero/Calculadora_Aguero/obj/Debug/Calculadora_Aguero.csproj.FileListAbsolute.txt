@@ -1,0 +1,31 @@
+C:\Users\3m1xd\source\repos\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.AssemblyReference.cache
+C:\Users\3m1xd\source\repos\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.Calculadora.resources
+C:\Users\3m1xd\source\repos\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.Properties.Resources.resources
+C:\Users\3m1xd\source\repos\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.GenerateResource.cache
+C:\Users\3m1xd\source\repos\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.CoreCompileInputs.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\Calculadora_Aguero.exe.config
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\Calculadora_Aguero.exe
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\Calculadora_Aguero.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.AssemblyReference.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.Calculadora.resources
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.Properties.Resources.resources
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.GenerateResource.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.CoreCompileInputs.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.exe
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\BibliotecaOperaciones.dll
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\BibliotecaOperaciones.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.CopyComplete
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\Calculadora_Aguero.exe.config
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\Calculadora_Aguero.exe
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\Calculadora_Aguero.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\BibliotecaOperaciones.dll
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\bin\Debug\BibliotecaOperaciones.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.AssemblyReference.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.Calculadora.resources
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.Properties.Resources.resources
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.GenerateResource.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.CoreCompileInputs.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.csproj.CopyComplete
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.exe
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\11\Análisis de Sistemas\Segundo año\Seminario_2.2\Mis ejercicios\Calculadora_Aguero\Calculadora_Aguero\obj\Debug\Calculadora_Aguero.pdb

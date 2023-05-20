@@ -1,0 +1,12 @@
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\BibliotecaOperaciones\bin\Debug\BibliotecaOperaciones.dll
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\BibliotecaOperaciones\bin\Debug\BibliotecaOperaciones.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.csproj.AssemblyReference.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.dll
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\Calculadora_Aguero\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\BibliotecaOperaciones\bin\Debug\BibliotecaOperaciones.dll
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\BibliotecaOperaciones\bin\Debug\BibliotecaOperaciones.pdb
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.csproj.AssemblyReference.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.dll
+C:\Users\3m1xd\OneDrive\Escritorio\Pau\analisis\11\Segundo año\Seminario_2.2\BibliotecaOperaciones\obj\Debug\BibliotecaOperaciones.pdb

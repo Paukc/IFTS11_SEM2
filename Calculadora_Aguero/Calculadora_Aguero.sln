@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_Aguero", "Calculadora_Aguero\Calculadora_Aguero.csproj", "{3D420C1B-05AB-4AFD-A5DC-BC2B257EEFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaOperaciones", "..\BibliotecaOperaciones\BibliotecaOperaciones.csproj", "{79AFE570-A9CB-497E-9854-408FDA2DB953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D420C1B-05AB-4AFD-A5DC-BC2B257EEFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D420C1B-05AB-4AFD-A5DC-BC2B257EEFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D420C1B-05AB-4AFD-A5DC-BC2B257EEFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D420C1B-05AB-4AFD-A5DC-BC2B257EEFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AFE570-A9CB-497E-9854-408FDA2DB953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AFE570-A9CB-497E-9854-408FDA2DB953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AFE570-A9CB-497E-9854-408FDA2DB953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AFE570-A9CB-497E-9854-408FDA2DB953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6EF4A1-17BB-46D4-93A4-AF1B837D177A}
+	EndGlobalSection
+EndGlobal
