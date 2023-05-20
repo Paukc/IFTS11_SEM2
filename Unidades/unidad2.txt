@@ -1,0 +1,2 @@
+Los documentos de JSON constan de campos, que son objetos pares nombre-valor. Los campos pueden estar en cualquier orden, y pueden estar anidados u organizados en matrices. 
+No hay obligatoriedad de estructuras de documentos. Por lo tanto, otros documentos de la misma colección pueden tener un subconjunto de estos campos, campos extra o representaciones diferentes del mismo campo. 
